@@ -1,0 +1,16 @@
+[
+{
+  "modid": "betelgeuse",
+  "name": "Betelgeuse",
+  "description": "A Minecraft utility mod.",
+  "version": "${version}",
+  "mcversion": "1.8.9",
+  "url": "https://github.com/rong-xiaoli/Betelgeuse",
+  "updateUrl": "https://github.com/rong-xiaoli/Betelgeuse",
+  "authorList": ["rong_xiaoli","Moshonne"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
